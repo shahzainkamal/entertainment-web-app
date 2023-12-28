@@ -1,0 +1,361 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  font-family:Arial, Helvetica, sans-serif;
+}
+body img {
+  border-radius: 5px;
+}
+.section-one {
+  background-color: rgba(26, 24, 24, 0.767);
+  width: 4%;
+
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 30%;
+}
+.section-one img {
+  width: 30%;
+}
+.logo img {
+  width: 50%;
+}
+h3 {
+  color: white;
+}
+.input {
+  margin-left: 5%;
+  margin-top: -40%;
+}
+.input input {
+  background-color: black;
+  border: none;
+}
+.input img {
+  width: 30px;
+  position: relative;
+  bottom: -10px;
+}
+.heading {
+  margin-left: 5%;
+}
+.heading img {
+  width: 100%;
+}
+.top-images {
+  display: flex;
+  gap: 3%;
+  overflow: hidden;
+}
+
+.bookmark-one img {
+  width: 15px;
+  position: absolute;
+  top: 22%;
+  left: 32%;
+  background-color: rgb(95, 91, 91);
+}
+.bookmark-two img {
+  width: 15px;
+  position: absolute;
+  top: 22%;
+  left: 62%;
+  background-color: rgb(95, 91, 91);
+}
+.bookmark-three img {
+  width: 15px;
+  position: absolute;
+  top: 22%;
+  left: 95%;
+  background-color: rgb(95, 91, 91);
+}
+.for-you img {
+  width: 100%;
+}
+.top-image-one img {
+  width: 11px;
+}
+.top-image-one {
+  color: white;
+  font-size: 10px;
+  opacity: 0.7;
+  position: relative;
+  top: -30%;
+  left: 20px;
+}
+.para {
+  position: absolute;
+ top: 34%;
+ left: 85px;
+}
+.top-image-two img {
+  width: 11px;
+}
+.top-image-two {
+  color: white;
+  font-size: 10px;
+  opacity: 0.7;
+  position: relative;
+  top: -30%;
+  left: 20px;
+}
+.para-one {
+  position: absolute;
+ top: 34%;
+ left: 39%;
+}
+.top-image-three img {
+  width: 11px;
+}
+.top-image-three {
+  color: white;
+  font-size: 10px;
+  opacity: 0.7;
+  position: relative;
+  top: -30%;
+  left: 20px;
+}
+.para-two {
+  position: absolute;
+ top: 34%;
+ left: 72%;
+}
+/*First Bonds */
+.first-bond {
+  display: flex;
+  gap: 30px;
+}
+.first-bond-image img {
+  width: 10px;
+}
+.first-bond-image {
+  color: lightgray;
+  font-size: 12px;
+}
+.empty-book-mark img {
+  width: 20px;
+  position: absolute;
+  top: 55%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-one img {
+  width: 20px;
+  position: absolute;
+  top: 55%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-two img {
+  width: 20px;
+  position: absolute;
+  top: 55%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-three img {
+  width: 20px;
+  position: absolute;
+  top: 55%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+/* Second Bonds */
+.second-bond {
+  display: flex;
+  gap: 30px;
+}
+.empty-book-mark-four img {
+  width: 20px;
+  position: absolute;
+  top: 84%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-five img {
+  width: 20px;
+  position: absolute;
+  top: 84%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-six img {
+  width: 20px;
+  position: absolute;
+  top: 84%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-seven img {
+  width: 20px;
+  position: absolute;
+  top: 84%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+
+/* Third Bonds */
+.third-bond {
+  display: flex;
+  gap: 30px;
+}
+.empty-book-mark-eight img {
+  width: 20px;
+  position: absolute;
+  top: 113%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-nine img {
+  width: 20px;
+  position: absolute;
+  top: 113%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-ten img {
+  width: 20px;
+  position: absolute;
+  top: 113%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-eleven img {
+  width: 20px;
+  position: absolute;
+  top: 113%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+/* forth Bonds */
+.forth-bond {
+  display: flex;
+  gap: 30px;
+}
+.empty-book-mark-twelve img {
+  width: 20px;
+  position: absolute;
+  top: 142%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-thirteen img {
+  width: 20px;
+  position: absolute;
+  top: 142%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-forteen img {
+  width: 20px;
+  position: absolute;
+  top: 142%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-fifteen img {
+  width: 20px;
+  position: absolute;
+  top: 142%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+/* Five Bonds */
+.fifth-bond {
+  display: flex;
+  gap: 30px;
+}
+.empty-book-mark-sixteen img {
+  width: 20px;
+  position: absolute;
+  top: 171%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-seventeen img {
+  width: 20px;
+  position: absolute;
+  top: 171%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-eighteen img {
+  width: 20px;
+  position: absolute;
+  top: 171%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-ninteen img {
+  width: 20px;
+  position: absolute;
+  top: 171%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+/* Six Bonds */
+.six-bond {
+  display: flex;
+  gap: 30px;
+}
+.empty-book-mark-twenty img {
+  width: 20px;
+  position: absolute;
+  top: 200%;
+  left: 24%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-twentyone img {
+  width: 20px;
+  position: absolute;
+  top: 200%;
+  left: 48%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-twentytwo img {
+  width: 20px;
+  position: absolute;
+  top: 200%;
+  left: 72%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+.empty-book-mark-twentythree img {
+  width: 20px;
+  position: absolute;
+  top: 200%;
+  left: 96%;
+  background-color: rgb(95, 91, 91);
+  border-radius: 20px;
+}
+
+p {
+  color: white;
+  font-size: 15px;
+}
